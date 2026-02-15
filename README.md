@@ -22,7 +22,7 @@ Tags are prefixed with `!` and may contain letters, numbers, and underscores.
 Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
-{ "snehlsen/zettelkasten.nvim" }
+return { "snehlsen/zettelkasten.nvim" }
 ```
 
 No configuration is required. The plugin loads automatically.
